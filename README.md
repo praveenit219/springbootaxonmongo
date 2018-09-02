@@ -1,4 +1,4 @@
-# springbootaxonmongo
+# springboot axon mongo 
 a simple application to use axon with springboot and mongo for using event sourcing
 
 <h2>Pre-setup </h2>
