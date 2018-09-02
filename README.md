@@ -45,7 +45,7 @@ curl  -H "Content-Type: application/json" localhost:10201/accounts/d3e5b0c0-f3d3
   <li> axon-mongo </li>
 <ul>  
   </p>
-  
+ </br>
   <p>
   This is a very simple example to understand and try event sourcing with axon framwork and springboot using mongodb repository to store events. 
   </p>
